@@ -1,0 +1,21 @@
+CUSTOMER_ID,CUSTOMER_NAME,EMAIL,CITY,CREATED_AT
+1,Rahul Das,rahul.das@example.com,Bhubaneswar,2025-05-01
+2,Anita Mishra,anita.mishra@example.com,Cuttack,2025-05-02
+3,Suman Patnaik,suman.patnaik@example.com,Puri,2025-05-03
+4,Priya Nayak,priya.nayak@example.com,Rourkela,2025-05-04
+5,Amit Kumar,amit.kumar@example.com,Sambalpur,2025-05-05
+6,,neha.singh@example.com,Balasore,2025-05-06
+7,Rajesh Sahoo,,Angul,2025-05-07
+8,Pooja Behera,pooja.behera@example.com,Berhampur,2025-05-08
+9,Deepak Pradhan,deepak.pradhan@example.com,Jharsuguda,2025-05-09
+10,Swati Mohanty,swati.mohanty@example.com,Keonjhar,2025-05-10
+11,Rakesh Panda,rakesh.panda@example.com,Bargarh,2025-05-11
+12,Sneha Das,sneha.das@example.com,Dhenkanal,2025-05-12
+13,Vikash Rout,vikash.rout@example.com,Koraput,2025-05-13
+14,Lina Jena,lina.jena@example.com,Kendrapara,2025-05-14
+15,Arjun Sethy,arjun.sethy@example.com,Mayurbhanj,2025-05-15
+15,Duplicate Arjun,duplicate.arjun@example.com,Mayurbhanj,2025-05-16
+17,Madhuri Lenka,madhuri.lenka@example.com,Nayagarh,2025-05-17
+18,Sanjay Barik,sanjay.barik@example.com,Jajpur,2025-05-18
+19,Tina Swain,tina.swain@example.com,Ganjam,2025-05-19
+,Manoj Hota,manoj.hota@example.com,Khurda,2025-05-20
