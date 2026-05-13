@@ -30,3 +30,13 @@ Stored Procedure Validation
       |
       v
 Success / Failure Message
+
+## Tools and Technologies Used
+- Snowflake
+- SQL
+- Stored Procedure
+- Internal Stage
+- COPY INTO
+- Temporary Table
+- Audit Logging
+- CSV File
