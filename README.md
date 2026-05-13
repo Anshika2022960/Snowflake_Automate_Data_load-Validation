@@ -1,0 +1,1 @@
+# Snowflake_Automate_Data_load-Validation
